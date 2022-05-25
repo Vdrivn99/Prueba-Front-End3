@@ -1,0 +1,36 @@
+body{
+    background-image: url('./thumb-1920-989511.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+
+
+
+}
+
+form{
+    background-color: rgb(116,116,116, 0.5);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    border-radius:0.5em ;
+    padding: 1.3em;
+    margin:0 auto;
+    box-shadow: inset 1px 1px 1px 1px;
+
+
+}
+
+
+footer{
+    background-color: lightgray;
+    bottom:0px;
+    left: 0;
+    margin-top: 3.5em;
+    padding-top: 3.5em;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
